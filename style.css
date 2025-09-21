@@ -34,7 +34,7 @@ body {
 }
 
 .message {
-    font-size: 2em;
+    font-size: 20px;
     color: #4a4a4a;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
     animation: fadeIn 3s forwards;
